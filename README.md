@@ -19,4 +19,6 @@ I don't use any license for the code I post here: you are free to use it the way
 I know, it looks like every piece of code is overdocumented. But, as we say in my language, "qui peut le plus, peut le moins". If you find the code overcommented, you are free to remove the comments and the documents. But at least you will be completely aware of how the function works and how it should be used, even if you don't know Python.
 
 
+
+
 PS: Si vous êtes en train de lire ce texte parce qu'un étudiant à mis un lien vers ce github sur ParcourSup, sachez qu'il se peut que ce soit véridique : je suis effectivement en terminale au jour où j'écris ces lignes. Je ne peux pourtant pas dévoiler mon identité ici, puisque cela irait contre le principe d'anonymisation des dossiers, et vous ne pouvez donc pas exclure la possibilité que l'étudiant en question se fasse passer pour moi. Je tiens cependant à souligner le fait que ce repository est privé, et n'est donc pas disponible sur Internet. Je peux de plus prouver que je suis l'auteur de chacun des programmes présents sur ce repository.
